@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MovieFinder2.0</string>
     <string name="movie_finder_20">Movie Finder 2.0</string>
+    <string name="details">Details</string>
+    <string name="invite_friend">Invite friend</string>
+    <string name="hint_comment">Write your comment here ...</string>
+    <string name="are_you_really_want_to_exit">Are you really want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="action_favorites">favorites</string>
 </resources>
